@@ -1,0 +1,7 @@
+Network Engineer tasks - Day 1
+
+install ganache and keep it running
+
+code:ganache --accounts 10 --deterministic --port 8545
+
+Review the documentation, Marlyse output for moe details but this is basically what you had to do
